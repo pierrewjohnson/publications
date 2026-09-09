@@ -1,4 +1,4 @@
-### Ouvrages
+### Books / Ouvrages
 
 - **Thé : l’envers de la tasse - *Enjeux sociaux et environnementaux de la filière thé*** — Éditions Charles Léopold Mayer, Paris, 2026
 -  **Biopiraterie – Quelles alternatives au pillage des ressources naturelles et des savoirs ancestraux ?** — Éditions Charles Léopold Mayer, Paris, 2012
@@ -8,7 +8,14 @@
   - Espagnol — CENCA, Pérou, 2004
   - Chinois — revue [à préciser]
 
-### Rapports commandés par institutions officielles
+## Radio coverage / Couverture radio
+- *Spotlight | Behind the Cup*, Tea Biz podcast, September 2026
+- *L'envers du décor de la production du thé*, Radio Télévision Suisse, émission "Tribu", mai 2026, rediffusé août 2026
+- *Thé : du champ à la tasse*, "C'est pas du vent", France Inter, 12 mars 2026
+- *La biopiraterie*, Zoom Zoom Zen, 9 janvier 2025
+- *Biopiraterie et biocommerce éthique : les savoirs spoliés des communautés autochtones*, Intelligence économique, France 24, 17 octobre 2023
+
+### Official reports / Rapports commandés par institutions officielles
 - **2019** - *Systems thinking: an approach for understanding ‘eco-agri-food systems’* TEEB for Agriculure and Food (co-author, ch. 2) - UNEP, Geneva
 - **2013** — *Guide to Multicriteria Evaluation for Environmental Justice Organisations* — EJOLT Report 8 (co-author) — [ejolt.org](http://www.ejolt.org)
 - **2006** — *Situación actual de los mercados justos en Guatemala* — PNUD
@@ -19,18 +26,19 @@
 - **2004** — *Labels et stratégies de commerce équitable au Mexique* — Délégation Interministérielle à l'économie sociale et solidaire, Yamana (150 p., français/espagnol)
 - **2002** — Rapport du groupe XI Commerce éthique et commerce équitable — Comité Français pour le Sommet Mondial du Développement Durable de Johannesburg
 
-### Articles classées par thème.
+### Publications by topic / Articles classées par thème.
 
+Except mentioned otherwise, published under the name Johnson, P.
 Sauf mention contraire, publiées sous le nom Johnson, P.
 
-### Savoirs traditionnels, biocommerce et biopiraterie
+### Traditional knowledge, Biotrade and Biopiracy / Savoirs traditionnels, biocommerce et biopiraterie
 
 - **2024** — *L'OMPI reconnaît les savoirs traditionnels à l'origine de certaines inventions… sans accorder à leurs détenteurs de droits supplémentaires* — Alternatives Économiques
 - **2014** (janvier) — *Protéger les savoirs des peuples autochtones* (avec C. Delpas) — Le Monde Diplomatique
 - **2012** — *Biopiraterie – Quelles alternatives au pillage des ressources naturelles et des savoirs ancestraux ?* — Éditions Charles Léopold Mayer, Paris *(ouvrage)*
 - **2011** (juin) — *Ethical biotrade as a business alternative to biopiracy: contrasting interpretations of emerging social constraints* — European Society of Ecological Economics
 
-### Commerce équitable
+### Fair trade / Commerce équitable
 
 - **2016** (février) — *L'émergence de l'agriculture biologique et du commerce équitable au Burundi* — revue Pour
 - **2011** (juin) — *Le commerce équitable et la Convention sur la Diversité Biologique* — Revue Tiers Monde, Éthique et Économie
@@ -52,13 +60,13 @@ Sauf mention contraire, publiées sous le nom Johnson, P.
 - **1998** (avril) — *Commerce Équitable: Un Regard Derrière le Label* — site l'Éconovateur
 - **1996** — *Les producteurs de café dans la tourmente de la libéralisation* — Demain le Monde, n°10
 
-### Chaînes de valeur (ylang ylang, thé, artémisia)
+### Value chains (ylang, tea, artemisia) / Chaînes de valeur (ylang ylang, thé, artémisia)
 
 - **2023** — *Étude de la chaîne de valeur huile essentielle d'ylang-ylang aux Comores* — Cahiers de recherche de l'océan Indien, Université de la Réunion
 - **2020** (juillet) — *Artemisia, une plante entre médecine et politique* — Alternatives Économiques
 - **2018** (mars) — *La Chine à l'heure du thé bio* — Alternatives Économiques, n° 377
 
-### Autres
+### Other / Autres
 
 - **2013** — *Guide to Multicriteria Evaluation for Environmental Justice Organisations* — EJOLT Report 8 (co-auteur)
 - **2012** — *Energy controversy over shale gas in Europe, with insights from North America* — REEDS Case Study n°2, EJOLT project
@@ -76,7 +84,7 @@ Sauf mention contraire, publiées sous le nom Johnson, P.
 - Articles divers — *Politis*, *Demain le Monde*, *Défis Sud*, *Cantera*, réseau Dialogues pour l'Humanité
 - AG Observatory, Institute for Agriculture and Trade Policy — [à compléter]
 
-  ### Responsabilités éditoriales
+### Responsabilités éditoriales
 
 - **2007–2008** — *Encyclopédie du Développement Durable*, Éditions des Récollets — Chargé du lancement : animation du comité éditoriale, coordination avec le prestataire informatique
 - **1997-2000** — *Caravane*, revue trilingue de l'Alliance pour un monde responsable et solidaire — Correspondant au Mexique, responsable du numéro 5, avril 2000 (réalisé depuis le Mexique)

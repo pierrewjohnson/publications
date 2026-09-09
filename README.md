@@ -9,8 +9,8 @@
   - Chinois — revue [à préciser]
 
 ### Rapports commandés par institutions officielles
-- **2019** - *Systems thinking: an approach for understanding ‘eco-agri-food systems’* TEEB for Agriculure and Food - UNEP, Geneva
-- **2013** — *Guide to Multicriteria Evaluation for Environmental Justice Organisations* — EJOLT Report 8 (co-auteur) — [ejolt.org](http://www.ejolt.org)
+- **2019** - *Systems thinking: an approach for understanding ‘eco-agri-food systems’* TEEB for Agriculure and Food (co-author, ch. 2) - UNEP, Geneva
+- **2013** — *Guide to Multicriteria Evaluation for Environmental Justice Organisations* — EJOLT Report 8 (co-author) — [ejolt.org](http://www.ejolt.org)
 - **2006** — *Situación actual de los mercados justos en Guatemala* — PNUD
   1. Le commerce équitable : historique
   2. État des lieux du commerce équitable au Guatemala

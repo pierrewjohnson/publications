@@ -76,7 +76,10 @@ Sauf mention contraire, publiées sous le nom Johnson, P.
 - Articles divers — *Politis*, *Demain le Monde*, *Défis Sud*, *Cantera*, réseau Dialogues pour l'Humanité
 - AG Observatory, Institute for Agriculture and Trade Policy — [à compléter]
 
----
+  ### Responsabilités éditoriales
+
+- **2007–2008** — *Encyclopédie du Développement Durable*, Éditions des Récollets — Chargé du lancement : animation du comité éditoriale, coordination avec le prestataire informatique
+- **1997-2000** — *Caravane*, revue trilingue de l'Alliance pour un monde responsable et solidaire — Correspondant au Mexique, responsable du numéro 5, avril 2000 (réalisé depuis le Mexique)
 
 **Note de classement** — deux entrées touchent à deux thèmes à la fois :
 - *Le commerce équitable et la Convention sur la Diversité Biologique* (2011) : placé sous « Commerce équitable », mais relève aussi directement de la biodiversité/ABS
